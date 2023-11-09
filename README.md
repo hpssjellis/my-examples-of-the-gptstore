@@ -1,4 +1,4 @@
-# myexamples-of-the-gptstore
+# my-examples-of-the-gptstore
 
 
 
